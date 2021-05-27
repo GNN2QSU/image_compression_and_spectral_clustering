@@ -1,0 +1,322 @@
+Id	Label	Color
+0	Sam Houston St.	11
+1	E. Washington	3
+2	Abil Chr.	11
+3	Georgia State	2
+4	Texas A&M	12
+5	South Carolina	7
+6	E. Illinois	4
+7	Minnesota	16
+8	Presbyterian	5
+9	Northern Illinois	6
+10	Missouri St.	18
+11	Northwestern St.	11
+12	Bryant	17
+13	Stony Brook	15
+14	Wake Forest	19
+15	La.-Monroe	2
+16	Chattanooga	9
+17	C. Michigan	6
+18	Howard	17
+19	Akron	6
+20	Charlotte	5
+21	Campbell	15
+22	Reinhardt	9
+23	Mercer	9
+24	E. Kentucky	4
+25	Robert Morris	17
+26	Point U	5
+27	Charleston So.	5
+28	Missouri Baptist	21
+29	SE Missouri St.	4
+30	Idaho State	3
+31	Utah	1
+32	Valparaiso	15
+33	W. Illinois	18
+34	Boise St.	8
+35	Ole Miss	12
+36	Kentucky Chr.	21
+37	Tenn. Tech	4
+38	Taylor	21
+39	S. Illinois	18
+40	Tulane	13
+41	Tulsa	13
+42	Cal-Poly	3
+43	New Mexico St.	2
+44	Union College (KY)	21
+45	Murray St.	4
+46	North Dakota	3
+47	San Jose St.	8
+48	Rutgers	16
+49	Washington St.	1
+50	Weber St.	3
+51	Arizona St.	1
+52	Temple	13
+53	Vanderbilt	7
+54	BYU	8
+55	Connecticut	13
+56	Villanova	15
+57	Syracuse	19
+58	Jacksonville St.	4
+59	Michigan St.	16
+60	Bowling Green	6
+61	W. Kentucky	10
+62	Colorado St.	8
+63	Colorado	1
+64	Texas-San Antonio	10
+65	Houston	13
+66	UNLV	8
+67	Arizona	1
+68	Penn St.	16
+69	UCF	13
+70	UCLA	1
+71	Virginia	19
+72	Delaware	15
+73	Pittsburgh	19
+74	W. Michigan	6
+75	Purdue	16
+76	Wagner	17
+77	Georgetown	14
+78	N. Iowa	18
+79	Iowa	16
+80	Ohio St.	16
+81	Navy	21
+82	Troy	2
+83	UAB	10
+84	Appalachian St.	2
+85	Michigan	16
+86	UT Martin	4
+87	Kentucky	7
+88	N. Dakota St.	18
+89	Iowa St.	0
+90	Youngstown St.	18
+91	Illinois	16
+92	Indiana St.	18
+93	Indiana	16
+94	Wofford	9
+95	Georgia Tech	19
+96	Ga. Southern	2
+97	N. Carolina St.	19
+98	Delaware St.	17
+99	Monmouth	5
+100	Colgate	14
+101	Ball St.	6
+102	Nicholls St.	11
+103	Air Force	8
+104	So. Utah	3
+105	Nevada	8
+106	Boston College	19
+107	Massachusetts	6
+108	California	1
+109	Northwestern	16
+110	FAU	10
+111	Nebraska	16
+112	Hampton	17
+113	Old Dominion	10
+114	South Dakota St.	18
+115	Missouri	7
+116	Marshall	10
+117	Miami (Ohio)	6
+118	James Madison	15
+119	Maryland	16
+120	Rice	10
+121	Notre Dame	19
+122	Duquesne	17
+123	Buffalo	6
+124	West Virginia	0
+125	Alabama	12
+126	UC-Davis	3
+127	Stanford	1
+128	Portland St.	3
+129	Oregon St.	1
+130	William & Mary	15
+131	Virginia Tech	19
+132	Arkansas	12
+133	Auburn	12
+134	Montana	3
+135	Wyoming	8
+136	Virginia-Lynchburg	21
+137	Alcorn St.	20
+138	Faith U.	21
+139	Mississippi Valley St.	20
+140	S.C. State	17
+141	Benedict	17
+142	Clemson	19
+143	Georgia	7
+144	Elon	15
+145	Duke	19
+146	VMI	9
+147	Bucknell	14
+148	Coastal Carolina	5
+149	The Citadel	9
+150	Liberty	5
+151	North Carolina	19
+152	Morgan St.	17
+153	E. Michigan	6
+154	Holy Cross	14
+155	Albany	15
+156	Central Conn. St.	17
+157	Towson	15
+158	Ohio	6
+159	Kent St.	6
+160	Morehead St.	15
+161	Richmond	15
+162	Norfolk St.	17
+163	Maine	15
+164	Marist	15
+165	Sacred Heart	17
+166	St. Francis	17
+167	Fordham	14
+168	Samford	9
+169	TCU	0
+170	Southern	20
+171	UL Lafayette	2
+172	Austin Peay	4
+173	Memphis	13
+174	Stetson	15
+175	Warner	21
+176	Louisiana Tech	10
+177	Oklahoma	0
+178	Montana St.	3
+179	Arkansas St.	2
+180	Sacramento St.	3
+181	Incarnate Word	11
+182	Bethune-Cook.	17
+183	FIU	10
+184	W. Carolina	9
+185	South Florida	13
+186	N. Arizona	3
+187	San Diego St.	8
+188	Edward Waters	21
+189	Tennessee St.	4
+190	Ark.-Pine Bluff	20
+191	Texas State	2
+192	Savannah St.	17
+193	M. Tenn. St.	10
+194	Florida A&M	17
+195	Jackson St.	20
+196	Gardner-Webb	5
+197	Furman	9
+198	Grand View U.	21
+199	Drake	15
+200	College of Faith	21
+201	Davidson	15
+202	Cent. Arkansas	11
+203	Texas Tech	0
+204	New Hampshire	15
+205	Toledo	6
+206	S.F. Austin	11
+207	Kansas St.	0
+208	Fresno St.	8
+209	USC	1
+210	Southern Miss	10
+211	Mississippi St.	12
+212	Alabama St.	20
+213	UTEP	10
+214	New Mexico	8
+215	North Texas	10
+216	Texas	0
+217	Grambling	20
+218	Lamar	11
+219	Florida St.	19
+220	Oklahoma St.	0
+221	Jacksonville	15
+222	SE Louisiana	11
+223	NC Central	17
+224	East Carolina	13
+225	LSU	12
+226	Wisconsin	16
+227	Montana-Western	21
+228	South Dakota	18
+229	Oregon	1
+230	Washington	1
+231	Hawaii	8
+232	Alabama A&M	20
+233	NC A&T	17
+234	Prairie View A&M	20
+235	Texas Southern	20
+236	Utah St.	8
+237	Tennessee	7
+238	SMU	13
+239	Baylor	0
+240	Miami (Fla.)	19
+241	Louisville	19
+242	Texas College	21
+243	Johnson C. Smith	5
+244	Army	21
+245	McNeese St.	11
+246	Lehigh	14
+247	Clarion	17
+248	Merrimack	21
+249	Dayton	15
+250	Tuskegee	21
+251	South Alabama	2
+252	William Penn	21
+253	Brevard College	21
+254	Florida	7
+255	Elizabeth City State	17
+256	Central Washington	21
+257	Newberry	5
+258	Pikeville College	21
+259	Lafayette	14
+260	Concordia	21
+261	Butler	15
+262	Wittenberg	21
+263	Bluefield State	5
+264	Florida Tech	21
+265	Central Methodist	21
+266	Truman State	21
+267	Catawba	21
+268	Idaho	2
+269	Rhode Island	15
+270	Kansas	0
+271	Illinois St.	18
+272	St. Joseph's (IN)	21
+273	McMurry University	21
+274	Houston Baptist	11
+275	Fort Lewis	21
+276	Western New Mexico	21
+277	San Diego	15
+278	Black Hills State	21
+279	N. Colorado	3
+280	Western Oregon	21
+281	Stillman College	21
+282	Cumberland (TN)	21
+283	Cincinnati	13
+284	Bowie State	17
+285	Louisiana College	21
+286	Morehouse	17
+287	Central State (Ohio)	21
+288	Chadron State	21
+289	Fort Valley State	17
+290	American International	15
+291	Assumption	17
+292	New Mexico Highlands	21
+293	Henderson State	21
+294	Texas A&M-Commerce	21
+295	N. Greenville	9
+296	CSU-Pueblo	21
+297	Harvard	14
+298	Menlo	21
+299	Yale	14
+300	Brown	14
+301	Columbia	14
+302	Cornell	14
+303	Penn	14
+304	Birmingham-Southern	21
+305	William Jewell	21
+306	West Alabama	21
+307	Princeton	14
+308	Ave Maria	21
+309	Miles	17
+310	Chowan	17
+311	Dartmouth	14
+312	Wisconsin-Oshkosh	21
+313	Mississippi College	21
+314	Virginia-Wise	9
+315	Arkansas Tech	21
+316	West Liberty State	17
+317	Alderson Broaddus	17
+318	Limestone College	21
+319	Kentucky Wesleyan	21
+320	Wesley	5
