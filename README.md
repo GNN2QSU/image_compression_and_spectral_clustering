@@ -15,3 +15,14 @@ KMeans image compression with k = 2, 4, 6, 8 and original
 
 
 ## 2. Spectral Clustering of USA football team from play-graph
+Content: manual implementation of spectral clustering on USA footbal team play-graph to cluster universities based on their geographical locations.
+
+Result snippets for cluster 1 and 2:
+
+Cluster 1:
+
+![image](https://user-images.githubusercontent.com/58320929/123755580-a3fcc580-d8ee-11eb-8656-9a68a2051f7e.png)
+
+Cluster 2:
+
+![image](https://user-images.githubusercontent.com/58320929/123755638-b119b480-d8ee-11eb-848a-c300a76a92dd.png)
