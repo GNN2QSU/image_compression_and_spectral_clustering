@@ -14,4 +14,4 @@ KMeans image compression with k = 2, 4, 6, 8 and original
 ![image](https://user-images.githubusercontent.com/58320929/123745396-d30d3a00-d8e2-11eb-8dfa-f0c72cbc2be1.png)
 
 
-## 2. Sectral Clustering of USA football team from play-graph
+## 2. Spectral Clustering of USA football team from play-graph
